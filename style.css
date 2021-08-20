@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Heading Section */
+
+.heading {
+    background: #0b1979;
+    color: #fff;
+    padding: 10px 0 0 0;
+    border-bottom: 10px solid #000;
+}
+
+.heading h2 {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.heading .red {
+    color: #ca585e;
+}
+
+.heading .blue {
+    color: #81c3f1;
+}
+
+
+/* Sub-Heading Section */
+
+.sub-heading {
+    background-color: #047504;
+    color: #fff;
+}
+
+.sub-heading p {
+    font-family: 'Yellowtail', cursive;
+    font-size: 40px;
+}
+
+
+/* Banner Image */
+
+.banner-img {
+    background-color: #000000;
+    margin-top: -16px;
+}
+
+
+/* About Section */
+
+.about {
+    background-color: #834646;
+    color: #29272b;
+}
+
+.about h2 {
+    font-family: 'Yellowtail', cursive;
+    font-size: 56px;
+}
+
+.about p {
+    background: #eeeeee;
+    font-size: 15px;
+}
+
+/* Service Section */
+
+.service {
+    background: #297a48;
+}
+
+.service h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    margin-top: -16px;
+    font-size: 50px;
+}
+
+.service-item {
+    background: #eeeeee;
+    margin-top: -8px;
+    padding: 10px 0;
+}
+
+
+/* Contact Section */
+
+.contact-us {
+    background: #0d6efd;
+}
+
+.contact-us h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    margin-top: -16px;
+    font-size: 50px;
+}
+
+.contacts {
+    background: #eeeeee;
+    margin-top: -9px;
+}
+
+.contact-form {
+    width: 200px;
+    margin: auto;
+    padding: 10px 0;
+}
+
+
+/* Para Section */
+
+.para {
+    background: #4f84c4;
+    color: #ffffff;
+    padding: 10px 0;
+}
+
+.para h1 {
+    text-transform: uppercase;
+    font-family: 'Yellowtail', cursive;
+    font-size: 50px;
+}
+
+
+/* Footer Section */
+
+.footer {
+    background: #000000;
+    color: #fff;
+}
+
+.footer p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    padding: 5px 0;
+    margin-bottom: 0;
+}
+
+.footer .blue {
+    color: #0c67c7;
+}
